@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc420a7a-7c99-45a2-a199-767bc070a904" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/glyphCheck.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getUnicodesOfTtf.py" afterDir="false" />
+    <list default="true" id="fc420a7a-7c99-45a2-a199-767bc070a904" name="Changes" comment="csv output extended incl header">
+      <change afterPath="$PROJECT_DIR$/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ubuntu-Regular.ttf.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceSans3-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/lager/SourceSans3-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getUnicodesOfTtf.py" beforeDir="false" afterPath="$PROJECT_DIR$/getUnicodesOfTtf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -63,6 +61,35 @@
       <option name="presentableId" value="Default" />
       <updated>1718308751662</updated>
     </task>
+    <task id="LOCAL-00001" summary="csv output extended incl header">
+      <option name="closed" value="true" />
+      <created>1720603771230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720603771230</updated>
+    </task>
+    <task id="LOCAL-00002" summary="csv output extended incl header">
+      <option name="closed" value="true" />
+      <created>1720603793996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720603793996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="csv output extended incl header">
+      <option name="closed" value="true" />
+      <created>1720603811211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720603811211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="csv output extended incl header" />
+    <option name="LAST_COMMIT_MESSAGE" value="csv output extended incl header" />
   </component>
 </project>

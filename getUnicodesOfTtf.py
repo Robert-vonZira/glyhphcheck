@@ -56,7 +56,7 @@ for font in fonts:
         f.write(string + "\n")
         f.close()
     whritedata("unicode,unicode padded,unicodevalue")
-
+    print (str(len(utf8)) + " Glyphes detected.")
     for code in utf8:
         hexvalue = code[2:len(code)]
         while len(hexvalue) < 4:
